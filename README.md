@@ -1,6 +1,6 @@
 # titanic-eda-project
  Exploratory Data Analysis on Titanic Dataset
-# 🚢 Titanic EDA Project
+#  Titanic EDA Project
 
 ## Overview
 Exploratory Data Analysis on the Titanic dataset
